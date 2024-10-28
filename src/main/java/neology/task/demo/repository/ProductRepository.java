@@ -1,4 +1,4 @@
-package neology.task.demo;
+package neology.task.demo.repository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
